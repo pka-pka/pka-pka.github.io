@@ -1,7 +1,7 @@
 :root {
   --color-text: #333;
   --color-background: #fff;
-  --color-link: #f30;
+  --color-link: #0ff;
   --color-clear: #f3f3f3;
   --color-shadow: transparent;
   --color-error: #933;
@@ -46,7 +46,7 @@
 :root.gray {
   --color-text: #333;
   --color-background: #fff;
-  --color-link: #f30;
+  --color-link: #0ff;
   --color-clear: #ddd;
   --color-shadow: rgba(51,51,51,0.4);
   --color-error: #933;
@@ -89,7 +89,7 @@
 :root.colorful {
   --color-text: #000;
   --color-background: rgba(255,255,255,0.867);
-  --color-link: #f30;
+  --color-link: #0ff;
   --color-clear: #fff;
   --color-shadow: transparent;
   --color-error: #a52a2a;
@@ -430,7 +430,7 @@ a {
   background-repeat: no-repeat;
   background-size: 50vmin;
   background-position: center;
-  transition: opacity 0.3s;
+  transition: opacity 3s;
   z-index: 999999999;
 }
 .m-launch.disabled {
