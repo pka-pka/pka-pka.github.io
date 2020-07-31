@@ -48,7 +48,7 @@ footer:
 panels:
   categories: 分类
   tags: 标签
-audioplayer: APlayer.js %s Meting.js
+audioplayer: song
 hitokoto: 一言
 recentposts:
   caption: 近期文章
