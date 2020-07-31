@@ -48,7 +48,7 @@ footer:
 panels:
   categories: CATEGORIES
   tags: TAGS
-audioplayer: APlayer.js %s Meting.js
+audioplayer: song
 hitokoto: HITOKOTO
 recentposts:
   caption: RECENT POSTS
