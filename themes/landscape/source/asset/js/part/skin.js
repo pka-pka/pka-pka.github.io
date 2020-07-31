@@ -53,7 +53,6 @@ const set = key => {
     colorIcons.run();
     root.classList.remove('gray');
     root.classList.add('colorful');
-    root.style.backgroundColor="red";
   }
   listener && listener(key);
 };
